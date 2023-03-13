@@ -3,6 +3,11 @@
 
 @import "{{ site.theme }}";
 
+html {
+  background: #898989;
+  background: #898989 linear-gradient(#898989, #fce0e4) fixed;
+}
+
 header {
   background: linear-gradient(#1effdc, #17cdb1);
   

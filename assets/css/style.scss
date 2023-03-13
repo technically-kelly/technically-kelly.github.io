@@ -3,7 +3,14 @@
 
 @import "{{ site.theme }}";
 
-
+header {
+  #background: ;
+  background: linear-gradient(#1effdc, #befff5);
+  
+  h1 {
+    #color: #4264cf;
+  }
+}
 
 a {
   color: #8b2a3c;

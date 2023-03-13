@@ -3,13 +3,22 @@
 
 @import "{{ site.theme }}";
 
+header {
+  # background: ;
+  #background: linear-gradient(#, #);
+  
+  h1 {
+    #color: ;
+  }
+}
+
 a {
   color: #8b2a3c;
   font-weight: bold;
 }
 
 section {
-  background: linear-gradient(#42d076, #b86124 700px);
+  background: linear-gradient(#79de9e, #d97c3a 700px);
 }
 
 h1, h2, h3, h4, h5, h6 {

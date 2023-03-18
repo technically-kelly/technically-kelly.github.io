@@ -18,16 +18,16 @@ header {
   
   p {
     color: #fffbe8;
+    
+    a {
+      color: #e795c4;
+      color:rgba(#e795c4, 0.8);
+    }
   }
   
   ul {
     background: #e795c4;
     background: linear-gradient(#e795c4, #e795c4);
-  }
-  
-  a {
-    color: #e795c4;
-    color:rgba(#e795c4, 0.8);
   }
 
 }

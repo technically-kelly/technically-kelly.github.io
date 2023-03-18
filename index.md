@@ -1,5 +1,4 @@
-# TechnicallyKelly
-[About](about.md)
+###[About](about.md)
 
 ## Updates
 

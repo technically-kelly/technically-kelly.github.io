@@ -18,11 +18,6 @@ header {
   
   p {
     color: #fffbe8;
-    
-    a {
-      color: #e795c4;
-      color:rgba(#e795c4, 0.8);
-    }
   }
   
   ul {
@@ -30,6 +25,10 @@ header {
     background: linear-gradient(#e795c4, #e795c4);
   }
 
+}
+
+p.view {
+  color: #e795c4;
 }
 
 a {

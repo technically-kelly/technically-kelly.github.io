@@ -18,17 +18,20 @@ header {
   
   p {
     color: #fffbe8;
+    
+    &.view {
+      text-shadow:rgba(#fff, 0.9) 0 .5px 0;
+      
+      a {
+        color: #e795c4;
+      }
+    }
   }
   
   ul {
     background: #e795c4;
     background: linear-gradient(#e795c4, #e795c4);
   }
-
-}
-
-p.view {
-  color: #e795c4;
 }
 
 a {

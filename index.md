@@ -1,4 +1,5 @@
 # TechnicallyKelly
+[About](about.md)
 
 ## Updates
 

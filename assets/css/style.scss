@@ -8,10 +8,6 @@ html {
   background: #d09242 linear-gradient(#e29430, #d09242) fixed;
 }
 
-a {
-  color: #e795c4;
-}
-
 header {
   background: linear-gradient(#0087aa, #0087aa);
   
@@ -28,6 +24,11 @@ header {
     background: #e795c4;
     background: linear-gradient(#e795c4, #e795c4);
   }
+  
+  a {
+    color: #e795c4;
+  }
+
 }
 
 a {

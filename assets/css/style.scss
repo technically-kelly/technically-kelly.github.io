@@ -8,6 +8,10 @@ html {
   background: #d09242 linear-gradient(#e29430, #d09242) fixed;
 }
 
+header ul li {
+    border-right: none;
+}
+
 header {
   background: linear-gradient(#0087aa, #0087aa);
   

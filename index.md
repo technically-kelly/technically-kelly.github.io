@@ -1,18 +1,11 @@
-# TechnicallyKelly
+## About Me
 
-## Updates
+Software Engineer with experience in full stack web development and robotics. I have used Python, C++, Vue.js, PHP, CMake, Docker, and many other languages and tools in my education and career. Before computer science I studied math and physics and I enjoy working with hardware and software together. 
 
-#### 3/1/2023
-New video coming next week!
+### Current sprint tasks
 
-#### 2/25/2023
-Check out new GitHub Pages website!
+* Write unit tests
+* Add feature
+* Fix bug
 
-## Links
-
-[YouTube](https://www.youtube.com)
-
-# H1
-## H2
-### H3
-#### H4
+[See previous sprint information](sprints.md)
